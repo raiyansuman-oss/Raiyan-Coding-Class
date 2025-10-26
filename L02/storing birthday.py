@@ -14,3 +14,7 @@ birthday5 = input("when is your birthday, Monir? ")
 print()
 
 print("Raheel's birthday is "+birthday1)
+print("Raisat's birthday is "+birthday2)
+print("Nafi's birthday is "+birthday3)
+print("Rubina's birthday is "+birthday4)
+print("Monir's birthday is "+birthday5)
