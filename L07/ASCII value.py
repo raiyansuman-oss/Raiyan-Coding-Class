@@ -1,0 +1,110 @@
+ch = input("Enter a letter (A-Z or a-z): ")
+
+if ch == "A":
+    print("ASCII number = 65")
+elif ch == "B":
+    print("ASCII number = 66")
+elif ch == "C":
+    print("ASCII number = 67")
+elif ch == "D":
+    print("ASCII number = 68")
+elif ch == "E":
+    print("ASCII number = 69")
+elif ch == "F":
+    print("ASCII number = 70")
+elif ch == "G":
+    print("ASCII number = 71")
+elif ch == "H":
+    print("ASCII number = 72")
+elif ch == "I":
+    print("ASCII number = 73")
+elif ch == "J":
+    print("ASCII number = 74")
+elif ch == "K":
+    print("ASCII number = 75")
+elif ch == "L":
+    print("ASCII number = 76")
+elif ch == "M":
+    print("ASCII number = 77")
+elif ch == "N":
+    print("ASCII number = 78")
+elif ch == "O":
+    print("ASCII number = 79")
+elif ch == "P":
+    print("ASCII number = 80")
+elif ch == "Q":
+    print("ASCII number = 81")
+elif ch == "R":
+    print("ASCII number = 82")
+elif ch == "S":
+    print("ASCII number = 83")
+elif ch == "T":
+    print("ASCII number = 84")
+elif ch == "U":
+    print("ASCII number = 85")
+elif ch == "V":
+    print("ASCII number = 86")
+elif ch == "W":
+    print("ASCII number = 87")
+elif ch == "X":
+    print("ASCII number = 88")
+elif ch == "Y":
+    print("ASCII number = 89")
+elif ch == "Z":
+    print("ASCII number = 90")
+
+elif ch == "a":
+    print("ASCII number = 97")
+elif ch == "b":
+    print("ASCII number = 98")
+elif ch == "c":
+    print("ASCII number = 99")
+elif ch == "d":
+    print("ASCII number = 100")
+elif ch == "e":
+    print("ASCII number = 101")
+elif ch == "f":
+    print("ASCII number = 102")
+elif ch == "g":
+    print("ASCII number = 103")
+elif ch == "h":
+    print("ASCII number = 104")
+elif ch == "i":
+    print("ASCII number = 105")
+elif ch == "j":
+    print("ASCII number = 106")
+elif ch == "k":
+    print("ASCII number = 107")
+elif ch == "l":
+    print("ASCII number = 108")
+elif ch == "m":
+    print("ASCII number = 109")
+elif ch == "n":
+    print("ASCII number = 110")
+elif ch == "o":
+    print("ASCII number = 111")
+elif ch == "p":
+    print("ASCII number = 112")
+elif ch == "q":
+    print("ASCII number = 113")
+elif ch == "r":
+    print("ASCII number = 114")
+elif ch == "s":
+    print("ASCII number = 115")
+elif ch == "t":
+    print("ASCII number = 116")
+elif ch == "u":
+    print("ASCII number = 117")
+elif ch == "v":
+    print("ASCII number = 118")
+elif ch == "w":
+    print("ASCII number = 119")
+elif ch == "x":
+    print("ASCII number = 120")
+elif ch == "y":
+    print("ASCII number = 121")
+elif ch == "z":
+    print("ASCII number = 122")
+
+else:
+    print("Invalid input! Enter A-Z or a-z only.")
